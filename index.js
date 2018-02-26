@@ -1,7 +1,7 @@
 const two = 2
 var animal = 'dog'
 var animal1 = 'cat'
-var add = (n += parseInt(two))
+
 
 function myAnimal() {
   return animal
