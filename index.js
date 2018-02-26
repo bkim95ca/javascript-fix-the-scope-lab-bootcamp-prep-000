@@ -24,7 +24,7 @@ function() {
     return theFunk
 }
 
-
+return function()
 }
 
 
