@@ -1,7 +1,7 @@
 const two = 2
 var animal = 'dog'
 var animal1 = 'cat'
-var theFunk = funkyFunction();
+var theFunk = "FUNKY!";
 
 function myAnimal() {
   return animal
